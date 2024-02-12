@@ -1,0 +1,101 @@
+[
+      {
+            "title": "Mesa Goya",
+            "description": "Mesa circular de mármol carrara de 1x1",
+            "price": "2000",
+            "thumbnail": "imagen de mesa goya",
+            "stock": "200",
+            "code": "kwy266",
+            "id": "1"
+      },
+
+      {
+            "title": "Silla Amazonas",
+            "description": "Silla de petiribí",
+            "price": "1000",
+            "thumbnail": "imagen de silla amazonas",
+            "stock": "200",
+            "code": "sdi545",
+            "id": "2"
+      },
+
+      {
+            "title": "Mesa Pampa",
+            "description": "Mesa de petiribí de 3x2",
+            "price": "1500",
+            "thumbnail": "imagen de mesa pampa",
+            "stock": "200",
+            "code": "xyt389",
+            "id": "3"
+      },
+
+      {
+            "title": "Vela Sofía",
+            "description": "Vela aromatizada",
+            "price": "40",
+            "thumbnail": "imagen de vela sofía",
+            "stock": "200",
+            "code": "rsj735",
+            "id": "4"
+      },
+
+      {
+            "title": "Biblioteca Camaro",
+            "description": "Biblioteeca de 4x2",
+            "price": "3500",
+            "thumbnail": "imagen de biblioteca camaro",
+            "stock": "200",
+            "code": "hsd542",
+            "id": "5"
+      },
+
+      {
+            "title": "Espejo Sol",
+            "description": "Espejo circular de 100cm de diámetro",
+            "price": "950",
+            "thumbnail": "imagen de espejo sol",
+            "stock": "200",
+            "code": "fef545",
+            "id": "6"
+      },
+
+      {
+            "title": "Lámpara Magnolia",
+            "description": "Lámpara de pie de luz cálida",
+            "price": "680",
+            "thumbnail": "imagen de lámpara magnolia",
+            "stock": "200",
+            "code": "usx439",
+            "id": "7"
+      },
+
+      {
+            "title": "Banco Guayaba",
+            "description": "Banco de madera de 200cm x 45cm",
+            "price": "2000",
+            "thumbnail": "imagen de banco guayaba",
+            "stock": "200",
+            "code": "oif592",
+            "id": "8"
+      },
+
+      {
+            "title": "Manta Amalia",
+            "description": "Manta tamaño queen",
+            "price": "80",
+            "thumbnail": "imagen de manta amalia",
+            "stock": "200",
+            "code": "tid883",
+            "id": "9"
+      },
+      
+      {
+            "title": "Sofá Ana",
+            "description": "Sofá de 200cm x 100cm",
+            "price": "2200",
+            "thumbnail": "imagen de sofá ana",
+            "stock": "200",
+            "code": "yeg219",
+            "id": "10"
+      }
+]
